@@ -1,0 +1,23 @@
+build/default/production/_ext/1360937237/main.o:  \
+../src/main.c  \
+ ../src/include.h  \
+../src/hardware/hardware.h  \
+../src/hardware/led.h  \
+ ../src/hardware/hardware.h  \
+../src/system/system.h  \
+ ../src/system/../hardware/hardware.h  \
+../src/system/../hardware/NVRAM.h  \
+ ../src/hardware/motor.h  \
+../src/hardware/../system/system.h  \
+ ../src/hardware/mcu_adc.h  \
+../src/hardware/motor.h  \
+../src/hardware/LCD.h  \
+ ../src/ui/ui.h  \
+../src/hardware/touch.h  \
+../src/hardware/UART6.h  \
+ ../src/transport/uart.h  \
+../src/transport/Protocol/types.h  \
+ ../src/transport/Protocol/Src/RingFifo.h  \
+ ../src/transport/Protocol/Src/../types.h  \
+ ../src/transport/Protocol/Src/Protocol.h  \
+ ../src/transport/Protocol/Src/RingFifo.h 

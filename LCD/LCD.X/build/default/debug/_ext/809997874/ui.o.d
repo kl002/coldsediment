@@ -1,0 +1,24 @@
+build/default/debug/_ext/809997874/ui.o:  \
+../src/ui/ui.c  \
+ ../src/system/system.h  \
+../src/system/../hardware/hardware.h  \
+ ../src/system/../hardware/NVRAM.h  \
+../src/ui/../include.h  \
+ ../src/ui/../hardware/hardware.h  \
+../src/ui/../hardware/led.h  \
+ ../src/ui/../hardware/hardware.h  \
+../src/ui/../system/system.h  \
+ ../src/ui/../hardware/motor.h  \
+../src/ui/../hardware/../system/system.h  \
+ ../src/ui/../hardware/mcu_adc.h  \
+../src/ui/../hardware/motor.h  \
+ ../src/ui/../hardware/LCD.h  \
+../src/ui/../ui/ui.h  \
+ ../src/ui/../hardware/touch.h  \
+../src/ui/../hardware/UART6.h  \
+ ../src/ui/../transport/uart.h  \
+../src/ui/../transport/Protocol/types.h  \
+ ../src/ui/../transport/Protocol/Src/RingFifo.h  \
+ ../src/ui/../transport/Protocol/Src/../types.h  \
+ ../src/ui/../transport/Protocol/Src/Protocol.h  \
+ ../src/ui/../transport/Protocol/Src/RingFifo.h 
